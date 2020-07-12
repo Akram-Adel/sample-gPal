@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="102" height="102" viewBox="0 0 102 102">
+  <defs>
+    <filter id="path174" x="0" y="0" width="102" height="102" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <path id="path180" d="M688.264-576.833a13.809,13.809,0,0,0-13.794,13.794v29.873a13.809,13.809,0,0,0,13.794,13.793h29.873a13.809,13.809,0,0,0,13.794-13.793v-29.873a13.809,13.809,0,0,0-13.794-13.794Zm29.873,63.4H688.264a19.76,19.76,0,0,1-19.738-19.738v-29.873a19.76,19.76,0,0,1,19.738-19.738h29.873a19.76,19.76,0,0,1,19.738,19.738v29.873a19.76,19.76,0,0,1-19.738,19.738Z" transform="translate(-668.526 582.777)"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="1.011" cy="0.987" r="1.43" gradientTransform="translate(-0.568 0.789) rotate(-51.234)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fec053"/>
+      <stop offset="0.327" stop-color="#f2203e"/>
+      <stop offset="0.648" stop-color="#b729a8"/>
+      <stop offset="1" stop-color="#5342d6"/>
+    </radialGradient>
+    <clipPath id="clip-path-2">
+      <path id="path200" d="M737.352-525.581a11.643,11.643,0,0,0-11.629,11.629,11.643,11.643,0,0,0,11.629,11.629,11.642,11.642,0,0,0,11.629-11.629A11.642,11.642,0,0,0,737.352-525.581Zm0,29.111a17.5,17.5,0,0,1-17.482-17.482,17.5,17.5,0,0,1,17.482-17.482,17.5,17.5,0,0,1,17.482,17.482A17.5,17.5,0,0,1,737.352-496.47Z" transform="translate(-719.87 531.433)"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-2" cx="1.498" cy="1.452" r="2.793" gradientTransform="matrix(0.626, -0.78, 0.78, 0.626, -0.916, 0.992)" xlink:href="#radial-gradient"/>
+    <clipPath id="clip-path-3">
+      <path id="path220" d="M825.41-543.268a4.2,4.2,0,0,1-4.2,4.2,4.2,4.2,0,0,1-4.2-4.2,4.2,4.2,0,0,1,4.2-4.2A4.2,4.2,0,0,1,825.41-543.268Z" transform="translate(-817.007 547.469)"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-3" cx="2.481" cy="6.659" r="11.619" gradientTransform="matrix(0.626, -0.78, 0.78, 0.626, -5.697, 1.436)" xlink:href="#radial-gradient"/>
+  </defs>
+  <g id="Group_2643" data-name="Group 2643" transform="translate(-5014.945 -1911.425)">
+    <g transform="matrix(1, 0, 0, 1, 5014.95, 1911.42)" filter="url(#path174)">
+      <path id="path174-2" data-name="path174" d="M729.945-535.039a13.72,13.72,0,0,1-13.68,13.68h-56.64a13.72,13.72,0,0,1-13.68-13.68v-56.64a13.72,13.72,0,0,1,13.68-13.68h56.64a13.721,13.721,0,0,1,13.68,13.68v56.64" transform="translate(-636.95 611.36)" fill="#fff"/>
+    </g>
+    <g id="g176" transform="translate(5031.271 1924.75)">
+      <g id="g178" transform="translate(0 0)" clip-path="url(#clip-path)">
+        <path id="path194" d="M688.264-576.833a13.809,13.809,0,0,0-13.794,13.794v29.873a13.809,13.809,0,0,0,13.794,13.793h29.873a13.809,13.809,0,0,0,13.794-13.793v-29.873a13.809,13.809,0,0,0-13.794-13.794Zm29.873,63.4H688.264a19.76,19.76,0,0,1-19.738-19.738v-29.873a19.76,19.76,0,0,1,19.738-19.738h29.873a19.76,19.76,0,0,1,19.738,19.738v29.873a19.76,19.76,0,0,1-19.738,19.738" transform="translate(-668.526 582.777)" fill="url(#radial-gradient)"/>
+      </g>
+    </g>
+    <g id="g196" transform="translate(5048.463 1941.943)">
+      <g id="g198" transform="translate(0 0)" clip-path="url(#clip-path-2)">
+        <path id="path214" d="M737.352-525.581a11.643,11.643,0,0,0-11.629,11.629,11.643,11.643,0,0,0,11.629,11.629,11.642,11.642,0,0,0,11.629-11.629A11.642,11.642,0,0,0,737.352-525.581Zm0,29.111a17.5,17.5,0,0,1-17.482-17.482,17.5,17.5,0,0,1,17.482-17.482,17.5,17.5,0,0,1,17.482,17.482,17.5,17.5,0,0,1-17.482,17.482" transform="translate(-719.87 531.433)" fill="url(#radial-gradient-2)"/>
+      </g>
+    </g>
+    <g id="g216" transform="translate(5080.238 1936.475)">
+      <g id="g218" transform="translate(0 0)" clip-path="url(#clip-path-3)">
+        <path id="path234" d="M825.41-543.268a4.2,4.2,0,0,1-4.2,4.2,4.2,4.2,0,0,1-4.2-4.2,4.2,4.2,0,0,1,4.2-4.2,4.2,4.2,0,0,1,4.2,4.2" transform="translate(-817.007 547.469)" fill="url(#radial-gradient-3)"/>
+      </g>
+    </g>
+  </g>
+</svg>
